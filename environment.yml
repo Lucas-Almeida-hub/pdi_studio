@@ -1,0 +1,11 @@
+name: pdi_studio
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - opencv
+  - numpy
+  - matplotlib
+  - pillow
+  - scikit-image
+  - reportlab
